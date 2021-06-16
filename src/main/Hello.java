@@ -9,7 +9,7 @@ public class Hello {
 		Employee emp2 = new Employee(12);
 
 
-		emp1.setNumber(10);
+		emp1.setNumber(8);
 		emp1.setName("Jeremy Smyth");
 		emp1.setSalary(15000f);
 
